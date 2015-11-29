@@ -102,7 +102,12 @@
 <td><strong>功能扩展: ref line
 </strong></td>
 </tr>
-
+<tr>
+<td><strong><span style="color: #3366ff;">v1.00</span></strong></td>
+<td><strong><span style="color: #008000;">20151129</span></strong></td>
+<td><strong>内核更改：发布版本
+</strong></td>
+</tr>
 </tbody>
 </table>
 早就有计划做一个服务器端的文献管理、共享和备份的资料库，由于最近要开始大量阅读文献，再也受不了随意乱放的pdf。终于被逼做这件事情了，花了一整天的时间完成v0.01，距离最终理想目标还太远太远，但v0.01已经能够实现最基本的核心功能，只写了四个php文件加一个期刊简写的ascii文件，数据仓储直接用目录+enw实现，毕竟重要的还是文件名归类和云端备份，这两点都实现了。
